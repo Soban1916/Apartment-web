@@ -1,0 +1,189 @@
+body{
+    background-color: aliceblue;
+}
+#logo{
+    background-color: rgb(52, 209, 52);
+    align-items: center;
+    padding: 10px;
+    padding-bottom: 20px;
+}
+#logotxt{
+padding-left: 200px;
+}
+#bar{
+padding-left: 800px;
+margin-top: -55px;
+
+}
+#bar a{
+    padding: 20px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-bottom: 5px;
+    color: aliceblue;
+}
+#bar a:hover{
+    background-color: white;
+    color:green;
+    padding-top: 4px;
+    padding-bottom: 4px;
+
+}
+#picsite{
+    height: 400px;
+    background-color: green;
+}
+.pic1{
+    padding-left: 200px;
+    padding-top: 10px;
+}
+#tablesite{
+    height: 300px;
+    padding-left: 330px;
+    padding-top: 50px;
+    margin-left: 40px;
+}
+.txt{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.603);
+}
+#bpsite{
+    background-color: rgba(128, 128, 128, 0.671);
+    height: 300px;
+}
+#blog{
+    width: 400px;
+    padding-left: 200px;
+}
+.bloghead{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(15, 190, 15);
+    font-weight: bold;
+}
+#blogtxt{
+    padding-left: 90px;
+    margin-top: -70px;
+}
+#blogtxtt{
+    padding-left: 90px;
+    margin-top: -70px;
+    
+}
+#port{
+    width: 400px;
+    padding-left: 700px;
+    margin-top: -220px;
+}
+.porttxt{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.porttd{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+#footersite{
+    height: 300px;
+    background-image: url(./images/footer_texture.jpg);
+}
+#bluehead{
+    width: 200px;
+    padding-left: 200px;
+    padding-top: 10px;
+}
+.bluedream{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: aliceblue;
+}
+.bluetxt{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: aliceblue;
+}
+#bluetxtt{
+    padding-left: 200px;
+}
+#tweetsite{
+    width: 200px;
+    padding-left: 450px;
+    margin-top: -136px;
+}
+.tweethead{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.twetx{
+color: aliceblue;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+}
+#newssite{
+    width: 200px;
+    padding-left: 700px;
+    margin-top: -198px;
+}
+.newhead{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.newtxt{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.email{
+    padding: 8px;
+    width: 130px;
+    outline: none;
+}
+.join{
+    padding: 8px;
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.582);
+    outline: none;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid rgba(0, 0, 0, 0.582);
+    border-radius: 3px;
+    width: 45px;
+    margin-left: -4px;
+}
+.follow{
+    padding-top: 19px;
+    color: rgba(0, 0, 0, 0.288);
+    font-size: 21px;
+}
+.tfg{
+    padding: 2px;
+}
+#contactsite{
+    width: 200px;
+    padding-left: 950px;
+    margin-top: -228px;
+}
+.contacthead{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.cont{
+    padding: 7px;
+    width: 185px;
+    outline: none;
+    border: 1px solid green;
+    border-radius: 4px;
+    margin-top: 6px;
+}
+.sub{
+    outline: none;
+    background-color: greenyellow;
+    border: 1px solid greenyellow;
+    padding: 10px;
+    margin-top: 3px;
+    cursor: pointer;
+}
